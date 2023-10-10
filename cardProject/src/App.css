@@ -1,0 +1,14 @@
+.App{
+  background: gray;
+  height: 100vh;
+  
+}
+
+.image.is-4by3 img{
+  height: 188px;
+}
+
+.image.is-4by3{
+  padding-top: 188px;
+}
+
